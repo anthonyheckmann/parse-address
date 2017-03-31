@@ -300,6 +300,7 @@
     road        : "rd",
     roads       : "rds",
     route       : "rte",
+    round       : "rnd",
     rvr         : "riv",
     shoal       : "shl",
     shoals      : "shls",
